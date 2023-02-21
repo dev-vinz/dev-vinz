@@ -13,17 +13,17 @@
 ```cs
 class VinZ
 {
-  public string Gender => 'Male';
-  public string[] Interests => new[] { 'Code', 'Sport', 'Music' };
+  public string Gender => "Male";
+  public string[] Interests => new[] { "Code", "Sport", "Music" };
   
   public Languages GetLanguages()
   {
-    return new Languages('C#', 'C++', 'JS', 'PHP', 'Web', 'Java', 'Python');
+    return new("C#", "C++", "JavaScript", "PHP", "HTML/CSS", "Java", "Python");
   }
   
   public Frameworks GetFrameworks()
   {
-    return new Frameworks('ASP.NET', 'Django', 'Laravel', 'VueJS', 'Qt', 'Spring', 'Swing');
+    return new("ASP.NET", "Django", "Laravel", "VueJS", "Qt", "Spring", "Swing");
   }
 }
 ```
