@@ -1,6 +1,6 @@
-## 👋 Hi, I'm !+VinZ+!
-
 <img align='right' src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="150">
+
+## 👋 Hi, I'm !+VinZ+!
 
 👨‍🎓 *Software engineer student [@HE-ARC](https://github.com/HE-Arc)* <br/>
 👨‍💻 *Freelance [Discord](https://discord.com/) bot developer*
