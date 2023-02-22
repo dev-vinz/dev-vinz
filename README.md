@@ -11,7 +11,7 @@
 ### 🧐 About me
 
 ```cs
-class VinZ
+public class VinZ
 {
   public string Gender => "Male";
   public string[] Interests => new[] { "Code", "Sport", "Music" };
