@@ -23,7 +23,7 @@ public class VinZ
   
   public Frameworks GetFrameworks()
   {
-    return new("ASP.NET", "Django", "Laravel", "VueJS", "Qt", "Spring", "Swing");
+    return new("ASP.NET", "Django", "Laravel", "VueJS", "Qt", "Spring");
   }
 }
 ```
