@@ -5,7 +5,7 @@
 👨‍🎓 *Software engineer student [@HE-ARC](https://github.com/HE-Arc)* <br/>
 👨‍💻 *Freelance [Discord](https://discord.com/) bot developer*
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-jeannin-ab929a171/)](https://www.linkedin.com/in/vincent-jeannin-ab929a171/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentjeannin/)](https://www.linkedin.com/in/vincentjeannin/)
 [![GitHub !+VinZ+!](https://img.shields.io/github/followers/dev-vinz?label=Follow&style=social)](https://github.com/dev-vinz)
 
 ### 🧐 About me
