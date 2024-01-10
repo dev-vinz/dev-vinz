@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm !+VinZ+!
 
-👨‍🎓 *Software engineer student [@HE-ARC](https://github.com/HE-Arc)* <br/>
+👨‍🎓 *Software engineer* <br/>
 👨‍💻 *Freelance [Discord](https://discord.com/) bot developer*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincentjeannin/)](https://www.linkedin.com/in/vincentjeannin/)
@@ -23,7 +23,7 @@ public class VinZ
   
   public Frameworks GetFrameworks()
   {
-    return new("ASP.NET", "Django", "Laravel", "VueJS", "Qt", "Spring");
+    return new("ASP.NET", "Angular", "Django", "Laravel", "VueJS", "Qt", "Spring");
   }
 }
 ```
